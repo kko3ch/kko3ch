@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-87f5fe2418.gif)](https://hermes-portfolio.netlify.app/)
+[![MasterHead](https://i.ibb.co/cvfmCGs/tom-hermes-in-matrix.gif)](https://hermes-portfolio.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm Tom Hermes Kipkurui <br/> <3> </h1>
