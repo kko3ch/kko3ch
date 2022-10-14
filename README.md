@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/cvfmCGs/tom-hermes-in-matrix.gif)](https://hermes-portfolio.netlify.app/)
 
-<h1 align="">Hi 👋, I'm Tom Hermes Kipkurui</h1>
+<h1 align="center">Hi 👋, I'm Tom Hermes Kipkurui</h1>
 <h3 align="center">A pragmatic full-stack developer from Kenya</h3>
 
 
