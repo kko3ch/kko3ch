@@ -12,7 +12,7 @@
 
 - 🌱 I'm Currently learning **Next.js, React and Sanity**
 
-- 💬 Ask me about **Javascript, Python**
+- 💬 Ask me about **Javascript and Python**
 
 - 📫 How to reach me **tom.k.kipkurui@gmail.com**
 
