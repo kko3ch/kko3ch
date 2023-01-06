@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a python-Django [hospital-management-system](https://github.com/kko3ch/Hospital-Management-System) project
 
-- 🌱 I'm Currently learning **Next.js, React and Sanity**
+- 🌱 I'm Currently learning **AWS**
 
 - 💬 Ask me about **Javascript and Python**
 
