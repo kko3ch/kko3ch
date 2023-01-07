@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tom.k.kipkurui@gmail.com**
 
-- ⚡ Fun fact **I have encountered Aliens, but don't ask me about it.**
+- ⚡ Fun fact **Ufology is no scam. Prove me wrong!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
