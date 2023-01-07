@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kko3ch" target="blank"><img src="https://img.shields.io/twitter/follow/kko3ch?logo=twitter&style=for-the-badge" alt="kko3ch" /></a> </p>
 
-- 🔭 I’m currently working on a python-Django [hospital-management-system](https://github.com/kko3ch/Hospital-Management-System) project
+- 🔭 I’m currently working on a python-Django project [Django](https://github.com/kko3ch/qimyaspace) project
 
 - 🌱 I'm Currently learning **AWS**
 
