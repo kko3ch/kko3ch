@@ -12,7 +12,7 @@
 
 - 🌱 I'm Currently learning **AWS**
 
-- 💬 Ask me about **Javascript and Python**
+- 💬 Ask me about **full stack software development**
 
 - 📫 How to reach me **tom.k.kipkurui@gmail.com**
 
