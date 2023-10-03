@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a python-[Django project ](https://github.com/kko3ch/qimyaspace) 
 
-- 🌱 I build projects with **Django**
+- 🌱 My stack of choice is just **Django**
 
 - 💬 Ask me about **full stack web development**
 
