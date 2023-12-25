@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tom.k.kipkurui@gmail.com**
 
-- ⚡ Fun fact **Ufology is no scam and Earth ist nicht flat. Prove me wrong!**
+- ⚡ Fun fact **Ufology is no scam unt Earth ist nicht flat. Prove me wrong!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
