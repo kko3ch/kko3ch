@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/cvfmCGs/tom-hermes-in-matrix.gif)](https://tom-kipkurui.netlify.app/)
 
-<h1 align="center">Hi 👋, I'm Tom Kipkurui</h1>
+<h1 align="center">Hi 👋, Call me Tom </h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="right"> <a href="https://twitter.com/kko3ch" target="blank"><img src="https://img.shields.io/twitter/follow/kko3ch?logo=twitter&style=for-the-badge" alt="kko3ch" /></a> </p>
